@@ -6,17 +6,12 @@ This is a simple two-player dice game where players take turns rolling dice, acc
 - Holding the current score and adding it to the total score.
 - Declaring a winner when a player reaches 100 points.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [How It Works](#how-it-works)
-- [Game Features](#game-features)
-- [Installation](#installation)
-- [How to Play](#how-to-play)
 
 ## Introduction
 
 This project is a simple implementation of a two-player dice game in JavaScript, HTML, and CSS. It includes features like rolling dice, holding scores, and switching turns. The game is played until one player reaches 100 points, at which point they win.
+
+
 
 ## How It Works
 
@@ -44,3 +39,5 @@ To play the game locally:
 2. how to start the game.
     ```bash
     Just double Click on index.html
+
+
