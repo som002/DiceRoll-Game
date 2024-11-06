@@ -40,4 +40,4 @@ To play the game locally:
     ```bash
     Just double Click on index.html
 
-
+followed tutorial of Jonas Schmedtmann
