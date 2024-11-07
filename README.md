@@ -1,5 +1,7 @@
 # Two-Player Dice Game
 
+Website: (https://som002.github.io/DiceRoll-Game)
+
 This is a simple two-player dice game where players take turns rolling dice, accumulating points, and trying to reach 100 points first. The game supports the following features:
 - Rolling a dice to add points to the current score.
 - Switching players when a 1 is rolled.
